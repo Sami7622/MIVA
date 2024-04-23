@@ -4,3 +4,7 @@ In the era of digital learning, the demand for effective tools that leverage mul
 
 Through experimentation and evaluation, our project has revealed significant insights. One major finding is that traditional video analysis methods, which typically generate captions for groups of frames equal to the video's frames per second (fps), may overlook certain activities recorded in the video. In response to this limitation, our novel approach focuses on captioning every single frame, ensuring that no detail goes unnoticed. This approach has the potential to revolutionize the field of video analysis, particularly in educational contexts, by offering a more comprehensive and detailed understanding of video content. Overall, our project contributes to the advancement of multimedia-based learning tools, offering educators and learners alike a powerful platform for accessing and comprehending educational videos in a more interactive and engaging manner.
 
+# Datasets Used
+
+MSRVTT - https://huggingface.co/datasets/AlexZigma/msr-vtt
+TVQA+ - https://github.com/jayleicn/TVQAplus
